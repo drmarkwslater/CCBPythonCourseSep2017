@@ -4,13 +4,13 @@ import math
 
 random.seed(123)
 t_noise = 0.5
-exp_noise = 0.5
-poly_noise = 0.5
-gauss_noise = 0.5
+exp_noise = 5
+poly_noise = 5
+gauss_noise = 5
 
 # constants for functions
 exp_n0 = 500.
-exp_lambda = -0.5
+exp_lambda = -0.07
 
 poly_a = -5.0
 poly_b = 0.78
